@@ -1,0 +1,4 @@
+linha
+linha 1
+palavra pequena
+melhor que o grep
